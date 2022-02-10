@@ -1,5 +1,8 @@
 # Kollabo Salesforce Challenge. 
 
+## Intro
+In the following you will find 2 short tasks to show us your coding skills and your motivation for the job. 🚀
+
 ### Challenge 1
 For this challenge, you need to write all the code from scratch!
 
