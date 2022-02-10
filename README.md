@@ -1,8 +1,4 @@
-# Kollabo Salesforce Challenge.
-
-## Intro 
-
-This challenge is about showing us that you are a hacker with a fast perception and excellent analytic skills. 
+# Kollabo Salesforce Challenge. 
 
 ### Challenge 1
 For this challenge, you need to write all the code from scratch!
@@ -12,8 +8,11 @@ Your mission, should you choose to accept it… 👨‍💻
 Write a trigger that will prevent each user from creating more than 99 cases a month!
 The maximum number of cases per user should be configurable without code. Each user will have the same maximum.
 Users should see the following error message if they break their max:
-Too many cases created this month for user <<Name>> (<<User ID>>): <<Maximum>>
+
+> Too many cases created this month for user \<\<Name\>\> (\<\<User ID\>\>): \<\<Maximum\>\>
+> 
 Don't forget your test class!
+
 ![alt text](https://img.kollabo.ch/github/Coding%20Challenge%201.png)
 
 ### Challenge 2
